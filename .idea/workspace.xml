@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca800e53-288b-4664-b297-045a0b0c2f7b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/小黑/Hello.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小黑/Hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/小黑/Hello.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,17 +11,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Busket" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="55" />
-    <option name="width" value="666" />
-    <option name="height" value="775" />
-  </component>
+  <component name="ProjectId" id="1cZnaoc6ZvaHJvOMYviU0YZXmAW" />
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589941988840" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -50,7 +54,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589894041599</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="19:18添加">
+      <created>1589973525747</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589973525747</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +112,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="0519 function : add_user" />
     <MESSAGE value="0519 function : add_user3" />
-    <option name="LAST_COMMIT_MESSAGE" value="0519 function : add_user3" />
+    <MESSAGE value="19:18添加" />
+    <option name="LAST_COMMIT_MESSAGE" value="19:18添加" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="245" y="5" key="CommitChangelistDialog2" timestamp="1589973525092">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="245" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589973525092" />
   </component>
 </project>
