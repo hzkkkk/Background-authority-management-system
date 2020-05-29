@@ -1,6 +1,6 @@
 
 public class main {
-//0529 黄梓凯: main函数
+//0529 黄梓凯: 10分支
     //0529蒋晓琦啊啊
     public static void main(String[] args) {
         flower();
